@@ -1,0 +1,92 @@
+[
+	{
+		"sn": "TOM011",
+		"name": "Tomate",
+		"price": 1.2,
+		"description": "Fruto rojo jugoso utilizado en ensaladas",
+		"category": "Verduras",
+		"stock": 200,
+		"active": true
+	},
+	{
+		"sn": "ZAN012",
+		"name": "Zanahoria",
+		"price": 0.9,
+		"description": "Raíz naranja crujiente y dulce",
+		"category": "Verduras",
+		"stock": 180,
+		"active": true
+	},
+	{
+		"sn": "PAP013",
+		"name": "Papa",
+		"price": 1.1,
+		"description": "Tubérculo versátil y nutritivo",
+		"category": "Verduras",
+		"stock": 250,
+		"active": true
+	},
+	{
+		"sn": "CEB014",
+		"name": "Cebolla",
+		"price": 1.4,
+		"description": "Bulbo con fuerte sabor y aroma",
+		"category": "Verduras",
+		"stock": 160,
+		"active": true
+	},
+	{
+		"sn": "LEC015",
+		"name": "Lechuga",
+		"price": 1.0,
+		"description": "Hojas verdes crujientes para ensaladas",
+		"category": "Verduras",
+		"stock": 140,
+		"active": true
+	},
+	{
+		"sn": "ESP016",
+		"name": "Espinaca",
+		"price": 1.6,
+		"description": "Hojas verdes ricas en hierro",
+		"category": "Verduras",
+		"stock": 130,
+		"active": true
+	},
+	{
+		"sn": "BRO017",
+		"name": "Brócoli",
+		"price": 2.0,
+		"description": "Vegetal verde con alto contenido de fibra",
+		"category": "Verduras",
+		"stock": 100,
+		"active": true
+	},
+	{
+		"sn": "PIM018",
+		"name": "Pimiento",
+		"price": 1.8,
+		"description": "Vegetal de colores variados y sabor dulce o picante",
+		"category": "Verduras",
+		"stock": 120,
+		"active": true
+	},
+	{
+		"sn": "CAL019",
+		"name": "Calabacín",
+		"price": 1.5,
+		"description": "Vegetal alargado y verde con textura suave",
+		"category": "Verduras",
+		"stock": 90,
+		"active": true
+	},
+	{
+		"sn": "BER020",
+		"name": "Berenjena",
+		"price": 1.75,
+		"description": "Vegetal morado con pulpa esponjosa",
+		"category": "Verduras",
+		"stock": 85,
+		"active": true
+	}
+]

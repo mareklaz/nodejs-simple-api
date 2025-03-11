@@ -3,7 +3,7 @@ import logger from './logger.config.js';
 
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/test-api';
 
-export async function connectDB() {
+export default async function connectDB() {
 	try {
 		await mongoose.connect(MONGODB_URI);
 		logger.warn('MongoDB connected');

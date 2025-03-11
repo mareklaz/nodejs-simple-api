@@ -1,0 +1,92 @@
+[
+	{
+		"sn": "PER001",
+		"name": "Pera",
+		"price": 1.65,
+		"description": "Es una fruta",
+		"category": "Frutas",
+		"stock": 100,
+		"active": true
+	},
+	{
+		"sn": "MAN002",
+		"name": "Manzana",
+		"price": 1.8,
+		"description": "Fruta roja o verde, dulce y jugosa",
+		"category": "Frutas",
+		"stock": 120,
+		"active": true
+	},
+	{
+		"sn": "BAN003",
+		"name": "Banana",
+		"price": 1.5,
+		"description": "Fruta alargada y amarilla, rica en potasio",
+		"category": "Frutas",
+		"stock": 90,
+		"active": true
+	},
+	{
+		"sn": "UVA004",
+		"name": "Uva",
+		"price": 2.5,
+		"description": "Frutas pequeñas en racimos, dulces y jugosas",
+		"category": "Frutas",
+		"stock": 80,
+		"active": true
+	},
+	{
+		"sn": "NAR005",
+		"name": "Naranja",
+		"price": 1.3,
+		"description": "Fruta cítrica rica en vitamina C",
+		"category": "Frutas",
+		"stock": 110,
+		"active": true
+	},
+	{
+		"sn": "MEL006",
+		"name": "Melón",
+		"price": 3.2,
+		"description": "Fruta grande y jugosa con pulpa dulce",
+		"category": "Frutas",
+		"stock": 60,
+		"active": true
+	},
+	{
+		"sn": "SAN007",
+		"name": "Sandía",
+		"price": 4.0,
+		"description": "Fruta grande con pulpa roja y muchas semillas",
+		"category": "Frutas",
+		"stock": 50,
+		"active": true
+	},
+	{
+		"sn": "FRE008",
+		"name": "Fresa",
+		"price": 2.8,
+		"description": "Pequeña fruta roja con sabor dulce y ácido",
+		"category": "Frutas",
+		"stock": 70,
+		"active": true
+	},
+	{
+		"sn": "DUR009",
+		"name": "Durazno",
+		"price": 2.1,
+		"description": "Fruta de piel aterciopelada y pulpa jugosa",
+		"category": "Frutas",
+		"stock": 65,
+		"active": true
+	},
+	{
+		"sn": "KIW010",
+		"name": "Kiwi",
+		"price": 2.9,
+		"description": "Fruta de piel marrón y pulpa verde con semillas",
+		"category": "Frutas",
+		"stock": 75,
+		"active": true
+	}
+]

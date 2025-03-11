@@ -12,7 +12,17 @@ export async function createProduct(req, res) {
 
 export async function getProducts(req, res) {
 	try {
-		const data = await productService.getProducts();
+		const { page, limit, ...filters } = req.query;
+
+		const options = {};
+		if (limit) {
+			const pageNum = parseInt(page) || 1;
+			const limitNum = parseInt(limit);
+			options.limit = limitNum;
+			options.skip = (pageNum - 1) * limitNum;
+		}
+
+		const data = await productService.getProducts(filters, options);
 
 		if (data.length === 0) {
 			return res.status(404).json({ message: 'No products found' });

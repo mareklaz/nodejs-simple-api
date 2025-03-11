@@ -1,0 +1,107 @@
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:33:57 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:34:06 +0000] \"GET /api/v1/products HTTP/1.1\" 404 31 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:34:06 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:4000/api/v1/products\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:41:22 +0000] \"GET /api/v1/products HTTP/1.1\" 404 31 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:41:53 +0000] \"GET /api/v1/products HTTP/1.1\" 404 31 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:47:55 +0000] \"POST /api/v1/products HTTP/1.1\" 201 287 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:48:50 +0000] \"GET /api/v1/products HTTP/1.1\" 200 289 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:48:54 +0000] \"GET /api/v1/products HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:49:28 +0000] \"POST /api/v1/products HTTP/1.1\" 201 292 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:10:49:31 +0000] \"GET /api/v1/products HTTP/1.1\" 200 573 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\""}
+{"level":"\u001b[32minfo\u001b[39m","message":"::1 - - [11/Mar/2025:11:05:23 +0000] \"GET /api/v1/products HTTP/1.1\" 200 573 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 304 - - 25.271 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /api/v1/products 201 239 - 77.225 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /api/v1/products 201 236 - 7.518 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 1032 - 8.751 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"DELETE /api/v1/products/67d014dba31aeaaacbafa10a 200 287 - 13.206 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 753 - 7.019 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"DELETE /api/v1/products/67d015388c301a6a8477c8d3 200 292 - 6.742 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 469 - 5.316 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products/67d0201976752cf3b072eeca 200 236 - 8.710 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products/67d0201976752cf3b072eeca 200 236 - 6.739 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 469 - 6.679 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"PUT /api/v1/products/67d0201976752cf3b072eeca 200 236 - 21.288 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 469 - 6.304 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?active=false 200 241 - 5.408 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?active=false 200 241 - 3.941 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?name=%22Pera%22 404 31 - 2.277 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?name=%22pera%22 404 31 - 3.821 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?sn=%22MAN001%22 404 31 - 2.744 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?sn=MAN001 200 241 - 6.607 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?sn=PER 404 31 - 3.332 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?sn=PER001 200 238 - 4.594 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /api/v1/products 400 1102 - 6.119 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"code":"ERR_IMPORT_ATTRIBUTE_MISSING","level":"\u001b[31merror\u001b[39m","message":"Error seeding data: Module \"file:///C:/Users/covim/Desktop/test-api/src/seeds/frutas.json\" needs an import attribute of \"type: json\"","stack":"TypeError [ERR_IMPORT_ATTRIBUTE_MISSING]: Module \"file:///C:/Users/covim/Desktop/test-api/src/seeds/frutas.json\" needs an import attribute of \"type: json\"\n    at validateAttributes (node:internal/modules/esm/assert:88:15)\n    at defaultLoad (node:internal/modules/esm/load:133:3)\n    at async ModuleLoader.load (node:internal/modules/esm/loader:567:7)\n    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:442:45)\n    at async ModuleJob._link (node:internal/modules/esm/module_job:106:19)"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Connected to DB"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Products collection cleared"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Fruits inserted successfully"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Vegetables inserted successfully"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /api/v1/products 400 110 - 53.387 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?sn=PER001 200 238 - 52.427 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products 200 5118 - 16.825 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=2&page=1 200 490 - 7.817 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=2&page=2 200 526 - 5.545 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=2&page=3 200 514 - 6.670 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=2&page=4 200 529 - 6.403 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=2&page=5 200 531 - 8.208 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?limit=5 200 1257 - 87.239 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?stock%3C10 404 31 - 9.635 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?stock%3C20 404 31 - 5.296 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?stock%3C50 404 31 - 5.963 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?stock=%3C50 400 107 - 38.793 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=50 404 31 - 63.011 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=50 404 31 - 7.185 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=20 404 31 - 6.187 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=1 200 4865 - 23.366 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=2 200 1821 - 7.422 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=1.25&price_max=1.55 200 1033 - 78.640 ms"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api/v1/products?price_min=1.25&price_max=1.30 200 261 - 7.421 ms"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Server running on port 4000"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"MongoDB connected"}
